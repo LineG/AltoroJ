@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - AltroJ-3.2
+      - AltoroJ-3.2
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
